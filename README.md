@@ -31,6 +31,7 @@ B = np.array([5, -3])
 solution = np.linalg.solve(A, B)
 
 print(solution)
+
 '''
 
 ## Output:
