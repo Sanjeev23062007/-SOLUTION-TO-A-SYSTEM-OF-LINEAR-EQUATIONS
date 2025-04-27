@@ -16,7 +16,9 @@ End the program
 ## Program:
 
 #Program to find the solution for the given linear equations.
+
 #Developed by: Sanjeev A
+
 #RegisterNumber: 212224230246
 
 import numpy as np
