@@ -14,7 +14,6 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-'''python
 
 #Program to find the solution for the given linear equations.
 
@@ -32,7 +31,6 @@ solution = np.linalg.solve(A, B)
 
 print(solution)
 
-'''
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/b7231e9b-e4e2-4268-949c-79ad5c5e868c)
