@@ -16,13 +16,19 @@ End the program
 ## Program:
 '''python
 #Program to find the solution for the given linear equations.
+
 #Developed by: Sanjeev A
+
 #RegisterNumber: 212224230246
 
 import numpy as np
+
 A = np.array([[1, 3], [2, 5]])
+
 B = np.array([5, -3])
+
 solution = np.linalg.solve(A, B)
+
 print(solution)
 '''
 
